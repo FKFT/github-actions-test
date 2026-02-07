@@ -4,3 +4,4 @@
 - push test
 - 5th attempt to fix workflow
 - 6th test
+- updating the git checkout version
